@@ -1,2 +1,2 @@
 # RGB-Light-Panels
-🎨 Custom RGB panel sign designed with Eagle 🦅. Features hand-soldered components, precise drilling, and a flawless print finish. A DIY showcase of electronics and design.
+🎨 Custom RGB panel designed for a prom sign, engineered to work with low voltage using Eagle 🦅. While the chip normally couldn't control eight 4-pin LEDs simultaneously, I leveraged NPN transistors and multiplexing. This technique rapidly switches LEDs on and off, making them seem illuminated simultaneously to the human eye—a blend of electronics and optical illusion.
